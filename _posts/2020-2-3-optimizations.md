@@ -1,7 +1,7 @@
 ---
 title: Optimizations
 subtitle: Optimizing the project for all platforms.
-background: /img/optimizations/optimzationtest1.png
+background: https://dev-intj.github.io/sixteenquotes/img/optimizations/optimzationtest1.png
 layout: post
 ---
 
