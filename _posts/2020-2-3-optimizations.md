@@ -1,7 +1,7 @@
 ---
 title: Optimizations
 subtitle: Optimizing the project for all platforms.
-background: /img/optimizations/optimzationtest1.png
+background: img/optimizations/optimzationtest1.png
 layout: post
 ---
 

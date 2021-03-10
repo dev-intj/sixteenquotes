@@ -2,7 +2,7 @@
 title: First Release
 layout: post
 date: "2020-2-15 22:43:01 +0000"
-background: /img/firstrelease.gif
+background: img/firstrelease.gif
 subtitle: Version 0.0.1 is available for download.
 ---
 
