@@ -2,7 +2,7 @@
 title: First tests with Unreal are promising!
 layout: post
 subtitle: Perfomance, potential and systems behind it.
-background: https://dev-intj.github.io/sixteenquotes/img/ue4.png
+background: /img/ue4.png
 ---
 
 # Turning the code from javascript to C++/blueprints.
