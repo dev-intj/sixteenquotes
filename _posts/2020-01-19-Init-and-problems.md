@@ -1,7 +1,7 @@
 ---
 title: Init and problems
 layout: post
-background: img/initandproblems/init1.png
+background: https://dev-intj.github.io/sixteenquotes/img/initandproblems/init1.png
 subtitle: Choosing the right tool.
 ---
 
