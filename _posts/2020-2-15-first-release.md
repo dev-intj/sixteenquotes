@@ -10,9 +10,10 @@ subtitle: Version 0.0.1 is available for download.
 
 I have added a animation to explore the universe,
 
-For now, the project is not connected to a database, and there's not a way to add a message to the database, but, the database has been made, and I am able to retrieve, and send information from it using the project. The foundation for the system exists, I just need some time and motivation to implement it.<br>
+For the present, the project is unconnected to the database.There isn't an interface option for a user to share a message with the world. The foundation for the system exists, I just need some time and motivation to implement it.
+<br>
 
-For now, I have to post-pone the project and come back with a fresh mind!<br>
+I will have, with difficulty, to post-pone the project and come back with a fresh mind!<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bqRdnrO3pTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
