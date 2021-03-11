@@ -5,7 +5,7 @@ background: https://dev-intj.github.io/sixteenquotes/img/initandproblems/init1.p
 subtitle: Choosing the right tool.
 ---
 
-As all devs know, one of the big challenges is choosing the right framework/technology for the project. I have experience with three.js, babylon.js ( Both of are javascript libraries to create and display 3D graphics ) two of the most popular and powerful in that field. But, the scope of this project is really big and I haven't done anything close to it with these big tools, regardless of that I will create some prototypes.
+One of the most complex challenges in the making of a project is carefully choosing the right framework/technology. I have experience with three.Js, Babylon.Js (Both of them are open source JavaScript libraries to construct and generate 3D graphics.) two of the most popular and powerful in that field.The scope of this project is vast. I haven’t developed anything close on the level of difficulty with these tools, regardless of that the development of prototypes has begin.
 
 # Hot the tests went
 
@@ -19,12 +19,12 @@ and the unusued points get deleted.
 
 > float dz = z * sqrtf(1.0 - (x*x/2.0) - (y*y/2.0) + (x*x*y*y/3.0));<br>
 
-But alas, the problems have started rising, first of all, the perfomance.
-Unless I only want 50 messages displaying at once, this is a bad way to do it.<br>
+But alas, the problems have started rising, for example the performance.
+Unless I set nothing but 50 messages displaying at once, this is an undesirable way to do it.<br>
 
-The shape generation takes too long cause of the complicated calculations.
-I have thought about generating the points my self and saving them, providing the person that uses the website only the points( or maybe initializing 10 different 3D arrays which will take too long at the start of loading the website ), which takes the loading time away from the calculation but the perfomance issue still remains.
+The shape generation takes too long cause of the complex calculations.
+I have thought about generating the points my self and saving them, providing the person that uses the website only the points. (or maybe initializing 10 different 3D arrays which will take extremely long at the start of loading the website) Which takes the loading time away from the calculation but the performance issue still remains.
 
 <b>Both babylon.js and three.js are unusable above 50 messages being displayed.</b>
 
-I still want the project to be in a website form, so I have to turn into a game engine and for a front end using a framework like react.
+However, I want the project to remain in a website form. I will most likely have to rely in a game engine, and the interface will be handled from a front-end technology, like, react.
